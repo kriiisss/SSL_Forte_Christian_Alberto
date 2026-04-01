@@ -1,0 +1,1 @@
+El objetivo del Trabajo Práctico N°0 es crear un entorno de desarrollo adecuado para la materia mediante la instalación y el uso de las herramientas brindadas por el equipo docente.

@@ -1,1 +1,1 @@
-# SSL_Forte_Christian_Alberto
+Este repositorio contiene los Trabajos Prácticos grupales e individuales correspondientes a la materia Sintaxis y Semántica de Lenguajes.
